@@ -1,3 +1,6 @@
+## Atlas800 Web Access
+To access Atlas800, visit: https://atlas.cmc.ca/
+
 ## Atlas 800 Training Cluster 
 
 The Atlas 800 cluster features 4 Atlas 800 training servers (model:
@@ -38,8 +41,6 @@ generated](images/image1.png)
 
 This tutorial walks you through all the necessary steps required to build, train and evaluate et deep neural network on the Atlas 800 cluster
 
-## Develop and Train Models in 'Code development' Project
-To access Atlas800, visit: https://atlas.cmc.ca/
 
 ## Develop and Train Models in 'Code development' Project
 
