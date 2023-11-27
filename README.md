@@ -38,6 +38,8 @@ generated](images/image1.png)
 
 This tutorial walks you through all the necessary steps required to build, train and evaluate et deep neural network on the Atlas 800 cluster
 
+## Develop and Train Models in 'Code development' Project
+To access Atlas800, visit: https://atlas.cmc.ca/
 
 ## Develop and Train Models in 'Code development' Project
 
